@@ -1,0 +1,1 @@
+Processed measurements and associated source metadata are licensed under CC BY4.0, https://creativecommons.org/licenses/by/4.0/. Attribution to Valdeolivas et al. and source DOI 10.5281/zenodo.7760264 is required. See README.md.
